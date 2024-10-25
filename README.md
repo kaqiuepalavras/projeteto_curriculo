@@ -1,4 +1,4 @@
-###Currículo de Neymar Júnior
+Currículo de Neymar Júnior
 Este projeto é uma página HTML estática que apresenta o currículo profissional de Neymar Júnior, um Administrador de Banco de Dados. A página utiliza HTML, CSS e Bootstrap para estilização.
 
 Estrutura do Projeto
@@ -27,7 +27,7 @@ Clone o Repositório:
 bash
 
 Copy code
-git clone <URL-do-repositorio>
+git clone https://github.com/kaqiuepalavras/projeteto_curriculo.git
 bash
 
 Copy code
